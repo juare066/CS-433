@@ -1,0 +1,8 @@
+###################################
+#Name: Fernando Juarez & Christian Galleisky
+#Date: September 18, 2019
+#Course: CS433 HW1
+###################################
+# use g++ for compiling c++ code 
+hellomake: main.cpp PCB.cpp PCB_Table.cpp ReadyQueue.cpp
+	g++ -o hellomake main.cpp PCB.cpp PCB_Table.cpp ReadyQueue.cpp -I.

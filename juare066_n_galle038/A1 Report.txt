@@ -1,0 +1,4 @@
+Our names are Fernando Juarez and Christian Galleisky.
+
+We submitted files main, PCB, PCB_Table, ReadyQueue, and makefile. Main is the driver program with a clock feature, PCB is the data structures Node Element program file, PCB_Table is simply a vector of PCB's, ReadyQueue is the functioning data structure (a minimum heap) program file, and makefile is a short cut file for the make command. To run our program simply run the "make" command. We found that our program generally runs in under a second. A cool thing learned was that the value for RAND_MAX is MUCH larger on a UNIX and Mac compiler than a Microsoft compiler. 
+Most of our time collected ranged in the 0.62 and 0.63 seconds, the following are many of the different times we got from compiling our program: 0.631493, 0.628522, and 0.639846 seconds. Thank you.
